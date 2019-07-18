@@ -1,0 +1,25 @@
+name: "Quentin H. Riser"
+navbar:
+  title:  "Quentin H. Riser"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "My Backyard"
+      href: backyard.html
+    - text: "Prassó"
+      href: viz.html
+      
+  right:
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/QuentinRiser
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/quentin-h-riser-77137b13b/
+
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
