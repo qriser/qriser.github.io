@@ -1,2 +1,0 @@
-# qriser.github.io
-website
